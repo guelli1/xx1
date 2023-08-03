@@ -1,2 +1,1 @@
-My first readme
-just i edited my readme file
+This is the README for the alx-zero_day repository
